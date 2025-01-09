@@ -11,9 +11,13 @@ Key Features of the Online Voting System
 Security forms the backbone of any voting system. Our platform employs advanced authentication mechanisms such as:
 
 *Multi-factor authentication (MFA): Combines user credentials (e.g., username and password) with secondary verifications like OTP (One-Time Passwords) or biometric scans.
-Voter ID Verification: Integrates with national identification databases to validate voter eligibility.
-End-to-End Encryption (E2EE): Ensures all data—votes and voter information—is securely transmitted and stored.
-Anonymity and Privacy
+
+*Voter ID Verification: Integrates with national identification databases to validate voter eligibility.
+
+*End-to-End Encryption (E2EE): Ensures all data—votes and voter information—is securely transmitted and stored.
+
+2.Anonymity and Privacy
+
 A critical feature is maintaining voter anonymity. The system uses cryptographic techniques such as homomorphic encryption and blind signatures to separate vote data from voter identity, ensuring that votes cannot be traced back to individuals.
 
 Accessibility
